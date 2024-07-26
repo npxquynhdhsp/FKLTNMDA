@@ -42,7 +42,7 @@ MiRNA-disease association prediction based on Fast kernel learning and Triplet n
   * For All in one in Independent test: Inde_Test.py.
   * For All in one in denovo miRNAs: Deno_mi.py.
 ## Usage
-  * Download code and upzip data to ```IN```.
+  * Download code and data then unzip ```IN*.rar``` to ```IN```.
   * Because of the big size of dataset, data in github is uploaded for using one repeat time running. You can edit code to run in one repeat time. For further data, please feel free send email to npxquynh@hueuni.edu.vn.
   * If ```OUT*``` directory does not exist, unzip ```OUT.rar```
   * How to run:
